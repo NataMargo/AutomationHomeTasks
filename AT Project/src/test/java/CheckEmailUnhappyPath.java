@@ -28,6 +28,7 @@ public class CheckEmailUnhappyPath {
                 {"T st@TEST.net"},
                 {"Test@T n.net"},
                 {"Test@TEST.n t"},
+                {null},
                 {"123@ukr.n"},
                 {"nataukr.net"}};
     }
